@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "id": 8,
+      "title": "Gluten in rice",
+      "detail": "Does rice consist of gluten?"
+    },
+    {
+      "id": 9,
+      "title": "Indonesia's startup unicorn",
+      "detail": "How many startup unicorn in Indonesia?"
+    },
+    {
+      "id": 12,
+      "title": "Uninstall Internet Explorer",
+      "detail": "Can i just uninstall internet explorer since I don't neet it"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "achivement": "Project Manager and Front-End developer for TPM final project",
+      "detail": "During TPM, with 2 UI/UX Designers, another fellow Front-end developer, and 2 back-end developers, we made a functional 'technoscape' website"
+    },
+    {
+      "id": 2,
+      "achivement": "Made team website for PRAP (Scientia)",
+      "detail": "During PRAP, in collaboration with Stella (UI/UX Designer) I developed the front-end using vanilla html/css/js for our group's website"
+    },
+    {
+      "id": 3,
+      "achivement": "Top 10 Ranking in Senior Highschool",
+      "detail": "During my studies in SMA Kolese Debritto, I was ranked #7 in Science and math studies"
+    }
+  ],
+  "personal": [
+    {
+      "id": 1,
+      "url": "https://via.placeholder.com/200",
+      "name": "John Lukito",
+      "age": "19",
+      "birthday": "17'th of May",
+      "email": "john.lukito@gmail.com"
+    }
+  ]
+}
